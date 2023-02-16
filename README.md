@@ -1,2 +1,2 @@
 # KR_weapondamage
-This is a script that allows you to control all weapon damage of the server, NPC guns, etc. This script is completely independent and is very suitable for role-playing servers
+This is a script that will allow you to control all weapon damage of the server, NPCs, guns, etc. This script is completely self-contained, very suitable for role-playing servers. It is completely self-contained, without any. Fps drop. It allows you to control all weapon damage on your server. NPC fist. Including player damage, etc., the damage of the entire server is controlled by this script. You can freely add weapons and easily configure weapon damage
