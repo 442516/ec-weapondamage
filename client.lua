@@ -1,6 +1,6 @@
 Citizen.CreateThread(function()
-    RegisterCommand("sstudy",function(source)
-        print("study")
+    RegisterCommand("weapon",function(source)
+        print("weapon")
     end)
     SetWeaponDamageModifier(
         'WEAPON_DAGGER', 
