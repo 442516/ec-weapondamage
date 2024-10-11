@@ -1,8 +1,11 @@
-fx_version 'adamant'
+fx_version 'cerulean'
 game 'gta5'
 
-author 'KR'
+author 'EddieCarson'
 version '1.0.0'
-description 'KR_weapondamage'
+description 'ec-weapondamage'
 
-client_script "client.lua"
+client_scripts {
+    "config.lua"
+    "client.lua"
+}
