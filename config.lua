@@ -1,6 +1,5 @@
 Config = {}
 
-
 Config.Weapons = {
     {
         weapon_name = 'WEAPON_DAGGER',
@@ -11,7 +10,7 @@ Config.Weapons = {
         weapon_damage = 0.1,
     },
     {
-        weapon_name = 'WEAPON_DAWEAPON_BOTTLEGGER',
+        weapon_name = 'WEAPON_BOTTLE',
         weapon_damage = 0.13,
     },
     {
